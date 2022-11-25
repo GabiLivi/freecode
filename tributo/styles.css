@@ -5,3 +5,9 @@
     left: auto;
     right: auto;
 }
+
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
